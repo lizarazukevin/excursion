@@ -27,3 +27,9 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+/* FOOTER */
+.foot--water {
+    text-align: right;
+    color: gray;
+}
